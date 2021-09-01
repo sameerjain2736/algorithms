@@ -1,1 +1,4 @@
 # algorithms
+Author: Sameer Jain
+
+This repository contains Java code I have written to review the fundamentals of computer science. Over the span of a few months, I plan to review the Java programming language, develop my computational thinking skills, and thoroughly understand the key data structures and algorithms needed for Software Engineering interviews. This repository also contains my solutions to the MOOC [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1) and select exercises from Sedgewick and Wayne's textbook [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/).
